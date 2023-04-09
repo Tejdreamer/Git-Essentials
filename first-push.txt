@@ -2,3 +2,8 @@ Hi there this is the first push into git repository
 we good to go 
 hi there
 all rightyyyy
+
+Its been great work
+Leraning Git Bash 
+Having fun
+
