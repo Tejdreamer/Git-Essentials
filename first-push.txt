@@ -1,13 +1,4 @@
-HI H HIH HHIHIHIIHHIHIHIHIHIHIHIHIIIHH
-
-
-
-
-
-
-
-
-
-
-
-
+Hi there this is the first push into git repository 
+we good to go 
+hi there
+all rightyyyy
