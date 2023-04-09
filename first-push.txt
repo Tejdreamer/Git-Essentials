@@ -1,9 +1,38 @@
-Hi there this is the first push into git repository 
-we good to go 
-hi there
-all rightyyyy
+Hi there this is the first push into git repository
+updated first push
 
-Its been great work
-Leraning Git Bash 
-Having fun
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+:wq
